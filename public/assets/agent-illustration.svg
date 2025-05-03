@@ -1,0 +1,80 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background elements -->
+  <rect x="50" y="30" width="300" height="220" rx="5" fill="#F2F2F2" fill-opacity="0.5"/>
+  
+  <!-- Window/cityscape in background -->
+  <rect x="80" y="40" width="150" height="180" rx="2" fill="#E6E6E6"/>
+  <rect x="90" y="50" width="30" height="40" fill="#D1D1D1"/>
+  <rect x="130" y="50" width="30" height="40" fill="#D1D1D1"/>
+  <rect x="170" y="50" width="30" height="40" fill="#D1D1D1"/>
+  <rect x="90" y="100" width="30" height="40" fill="#D1D1D1"/>
+  <rect x="130" y="100" width="30" height="40" fill="#D1D1D1"/>
+  <rect x="170" y="100" width="30" height="40" fill="#D1D1D1"/>
+  <rect x="90" y="150" width="30" height="40" fill="#D1D1D1"/>
+  <rect x="130" y="150" width="30" height="40" fill="#D1D1D1"/>
+  <rect x="170" y="150" width="30" height="40" fill="#D1D1D1"/>
+  
+  <!-- Desk -->
+  <rect x="80" y="220" width="240" height="5" rx="2" fill="#B0BEC5"/>
+  <rect x="90" y="225" width="220" height="15" rx="1" fill="#90A4AE"/>
+  <rect x="90" y="240" width="5" height="40" fill="#78909C"/>
+  <rect x="305" y="240" width="5" height="40" fill="#78909C"/>
+  
+  <!-- Computer monitor -->
+  <rect x="180" y="170" width="70" height="50" rx="2" fill="#263238"/>
+  <rect x="185" y="175" width="60" height="35" rx="1" fill="#EEEEEE"/>
+  <rect x="215" y="220" width="2" height="10" fill="#455A64"/>
+  <rect x="205" y="230" width="20" height="2" fill="#455A64"/>
+  
+  <!-- Person sitting at desk -->
+  <!-- Chair -->
+  <rect x="120" y="200" width="50" height="20" rx="10" fill="#455A64"/>
+  <rect x="145" y="220" width="5" height="30" fill="#37474F"/>
+  <rect x="125" y="250" width="45" height="5" rx="2" fill="#37474F"/>
+  <circle cx="130" cy="255" r="5" fill="#263238"/>
+  <circle cx="165" cy="255" r="5" fill="#263238"/>
+  
+  <!-- Person's body -->
+  <rect x="135" y="170" width="25" height="45" rx="5" fill="#1976D2"/>
+  
+  <!-- Person's legs -->
+  <path d="M135 205C135 205 130 220 130 230C130 240 135 245 140 245C145 245 150 235 150 235L135 205Z" fill="#90CAF9"/>
+  <path d="M160 205C160 205 165 220 165 230C165 240 160 245 155 245C150 245 145 235 145 235L160 205Z" fill="#90CAF9"/>
+  
+  <!-- Person's shoes -->
+  <ellipse cx="140" cy="250" rx="10" ry="5" fill="#E65100"/>
+  <ellipse cx="160" cy="240" rx="10" ry="5" fill="#E65100"/>
+  
+  <!-- Person's head -->
+  <circle cx="145" cy="155" r="15" fill="#FFCC80"/>
+  <path d="M135 155C135 155 140 160 145 160C150 160 155 155 155 155" stroke="#795548" stroke-width="1"/>
+  <circle cx="140" cy="150" r="2" fill="#795548"/>
+  <circle cx="150" cy="150" r="2" fill="#795548"/>
+  <path d="M130 145C130 145 130 135 145 135C160 135 155 150 155 150" fill="#5D4037"/>
+  
+  <!-- Speech bubble -->
+  <path d="M110 150C110 145 115 140 120 140H140C145 140 150 145 150 150V155C150 160 145 165 140 165H120C115 165 110 160 110 155V150Z" fill="#1976D2"/>
+  
+  <!-- Speech bubble ellipsis -->
+  <circle cx="120" cy="152.5" r="2" fill="#FFFFFF"/>
+  <circle cx="130" cy="152.5" r="2" fill="#FFFFFF"/>
+  <circle cx="140" cy="152.5" r="2" fill="#FFFFFF"/>
+  
+  <!-- Flying bird/paper with trail -->
+  <path d="M320 100C320 100 310 90 300 100C290 110 280 90 280 90" stroke="#B0BEC5" stroke-width="1" stroke-dasharray="3 3"/>
+  <path d="M270 100L285 85L295 95L310 80" fill="none" stroke="#B0BEC5" stroke-width="1" stroke-dasharray="3 3"/>
+  
+  <!-- Bird/paper plane -->
+  <path d="M270 80C270 80 280 70 285 75C290 80 285 90 285 90L270 80Z" fill="#4FC3F7"/>
+  
+  <!-- Plant -->
+  <rect x="80" y="270" width="20" height="20" rx="2" fill="#78909C"/>
+  <path d="M90 270C90 270 85 260 80 250C75 260 80 270 80 270" fill="#2E7D32"/>
+  <path d="M90 270C90 270 95 260 100 250C105 260 100 270 100 270" fill="#2E7D32"/>
+  <path d="M90 270C90 270 90 250 90 240C90 250 90 270 90 270" fill="#2E7D32"/>
+  
+  <!-- Plant in background -->
+  <rect x="320" y="270" width="15" height="15" rx="2" fill="#EEEEEE"/>
+  <path d="M327.5 270C327.5 270 325 260 320 255C325 260 327.5 270 327.5 270" fill="#E0E0E0"/>
+  <path d="M327.5 270C327.5 270 330 260 335 255C330 260 327.5 270 327.5 270" fill="#E0E0E0"/>
+</svg> 
